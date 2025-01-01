@@ -4,5 +4,5 @@ Front end: React.js
 Back end: Node.js, Express
 DB: MongoDB 
 
-##Idea
+## Idea
 Create a project where you can add goals for each day of the week, then are rewarded points for each goal completed at the end of the week. 
