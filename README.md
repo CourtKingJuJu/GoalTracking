@@ -1,5 +1,6 @@
 # GoalTracking
 Project to work front and backend technolgoy on used at my first co-op before starting work. 
+
 Front end: React.js
 Back end: Node.js, Express
 DB: MongoDB 
